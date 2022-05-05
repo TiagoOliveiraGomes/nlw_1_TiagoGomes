@@ -1,0 +1,12 @@
+.widgetContainer {
+    @apply 
+    absolute 
+    bottom-4 
+    right-4
+    overflow-hidden
+    flex
+    flex-col
+    items-end
+    md:bottom-8
+    md:right-8
+}
