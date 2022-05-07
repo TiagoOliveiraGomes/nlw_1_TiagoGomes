@@ -5,24 +5,34 @@ import "./style.css";
 import { feedbackTypes } from "../../../utils/feedbackTypes";
 import { FeedbackTypeStep } from "./steps/FeedbackTypeStep";
 import { FeedbackContentStep } from "./steps/FeedbackContentStep";
+import { FeedbackSuccessStep } from "./steps/FeedbackSuccessStep";
 
 export type FeedbackType = keyof typeof feedbackTypes;
 
 export function WidgetForm() {
   const [feedbackType, setFeedbackType] = useState<FeedbackType | null>(null);
+  const [feedbackSent, setFeedbackSent] = useState(false);
 
   function handleRestartFeedback() {
-      setFeedbackType(null)
+    setFeedbackSent(false)
+    setFeedbackType(null);
   }
   return (
     <div className="widgetFormContainer">
-      
-      {!feedbackType ? (
-        <FeedbackTypeStep onFeedbackTypeChanged={setFeedbackType} />
+      {feedbackSent ? (
+        <FeedbackSuccessStep onFeedbackRestartRequested={handleRestartFeedback}/>
       ) : (
-        <FeedbackContentStep 
-        onFeedbackRestartRequested={handleRestartFeedback} 
-        feedbackType={feedbackType} />
+        <>
+          {!feedbackType ? (
+            <FeedbackTypeStep onFeedbackTypeChanged={setFeedbackType} />
+          ) : (
+            <FeedbackContentStep
+              onFeedbackSent={() => setFeedbackSent(true)}
+              onFeedbackRestartRequested={handleRestartFeedback}
+              feedbackType={feedbackType}
+            />
+          )}
+        </>
       )}
 
       <footer className="widgetFormFooter">
