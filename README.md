@@ -32,7 +32,8 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 Lembrando que é nescessario um [backend](https://github.com/TiagoOliveiraGomes/Nlw_1_server_TiagoGomes) acessivel para que o widget envie o feedback corretamente.
 
-# </h2>💻 Projeto</h2>
+# <h2>💻 Como executar</h2>
+# </h2> Projeto</h2>
 
 O widget é um componente estilizado, que pode ser reutilizado em diversos projetos onde o usuário poderá interagir e enviar notas de feedback para o autor do site.
 
