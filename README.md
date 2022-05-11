@@ -29,11 +29,11 @@ $ npm run dev
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-Lembrando que é nescessario um backend acessivel para que o widget envie o feedback corretamente.
+Lembrando que é nescessario um [backend](https://github.com/TiagoOliveiraGomes/Nlw_1_server_TiagoGomes) acessivel para que o widget envie o feedback corretamente.
 
 💻 Projeto
 O widget é um componente estilizado, que pode ser reutilizado em diversos projetos onde o usuário poderá interagir e enviar notas de feedback para o autor do site.
 
-![image](https://user-images.githubusercontent.com/70171892/167913413-a81ba7c1-7a81-425f-aba5-6cb58540cdf5.png)
+![Imagem do Widget do app](https://user-images.githubusercontent.com/70171892/167913413-a81ba7c1-7a81-425f-aba5-6cb58540cdf5.png)
 
-Feito com 💜 by Tiago Gomes 👋🏻 
+Feito com 🧡 by Tiago Gomes 👋🏻 
