@@ -37,7 +37,7 @@ export function WidgetForm() {
 
       <footer className="widgetFormFooter">
         Feito com ♥︎ por{" "}
-        <a className="linkWidget" href="https://Rocketseat.com.br">
+        <a className="linkWidget" href="https://github.com/TiagoOliveiraGomes">
           Tiago Gomes
         </a>
       </footer>
