@@ -2,7 +2,6 @@
 
 <h2>🧪Tecnologias</h2>
 <h4>Esse projeto foi desenvolvido com as seguintes tecnologias: </h4>
-<br/>
 
 * [React](https://reactjs.org)
 * [TypeScript](https://www.typescriptlang.org)
