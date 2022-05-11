@@ -1,6 +1,6 @@
 # Widget_WEB-TiagoGomes
 
-# 🧪Tecnologias
+<h2>🧪Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * [React](https://reactjs.org)
@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 
-<h2>🚀 Como executar</h2>
+# <h2>🚀 Como executar</h2>
 Clone o projeto e acesse a pasta do mesmo.
 
 ```javascript
