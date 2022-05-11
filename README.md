@@ -3,6 +3,7 @@
 <h2>🧪Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias: 
 <br/>
+
 * [React](https://reactjs.org)
 * [TypeScript](https://www.typescriptlang.org)
 * [Vite](https://vitejs.dev)
