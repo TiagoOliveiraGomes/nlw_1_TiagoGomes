@@ -1,39 +1,33 @@
-# nlw_1_TiagoGomes
+# Widget_WEB-TiagoGomes
 
 🧪 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 React
-Firebase
 TypeScript
+HTML
+CSS
+
 🚀 Como executar
 Clone o projeto e acesse a pasta do mesmo.
 
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/TiagoOliveiraGomes/nlw_1_TiagoGomes
+$ cd nlw_1_TiagoGomes
 Para iniciá-lo, siga os passos abaixo:
 
 # Instalar as dependências
-$ yarn
+$ npm install
 
 # Iniciar o projeto
-$ yarn start
+$ npm run dev
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 Lembrando que será necessário criar uma conta no Firebase e um projeto para disponibilizar um Realtime Database.
+Lembrando que é nescessario um backend acessivel para que o widget envie o feedback corretamente.
 
 💻 Projeto
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+O widget é um componente estilizado, que pode ser reutilizado em diversos projetos onde o usuário poderá interagir e enviar notas de feedback para o autor do site.
 
-Este é um projeto desenvolvido durante a Next Level Week Together, apresentada dos dias 20 a 27 de Junho de 2021.
-
-🔖 Layout
-Você pode visualizar o layout do projeto através do link abaixo:
-
-Layout Web
-Lembrando que você precisa ter uma conta no Figma.
-
-📝 License
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+![image](https://user-images.githubusercontent.com/70171892/167913413-a81ba7c1-7a81-425f-aba5-6cb58540cdf5.png)
 
 Feito com 💜 by Tiago Gomes 👋🏻 
