@@ -12,12 +12,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 🚀 Como executar
 Clone o projeto e acesse a pasta do mesmo.
 
-```$ git clone https://github.com/TiagoOliveiraGomes/nlw_1_TiagoGomes```
-```$ cd nlw_1_TiagoGomes```
+```javascript
+$ git clone https://github.com/TiagoOliveiraGomes/nlw_1_TiagoGomes
+$ cd nlw_1_TiagoGomes
+```
 Para iniciá-lo, siga os passos abaixo:
 
 # Instalar as dependências
-```$ npm install```
+```javascript
+$ npm install
+```
 
 # Iniciar o projeto
 $ npm run dev
