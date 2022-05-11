@@ -1,7 +1,7 @@
 # Widget_WEB-TiagoGomes
 
 <h2>🧪Tecnologias</h2>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias: /n
 
 * [React](https://reactjs.org)
 * [TypeScript](https://www.typescriptlang.org)
