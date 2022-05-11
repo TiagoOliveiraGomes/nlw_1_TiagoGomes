@@ -24,10 +24,11 @@ $ npm install
 ```
 
 # Iniciar o projeto
+```javascript
 $ npm run dev
+```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-Lembrando que será necessário criar uma conta no Firebase e um projeto para disponibilizar um Realtime Database.
 Lembrando que é nescessario um backend acessivel para que o widget envie o feedback corretamente.
 
 💻 Projeto
