@@ -3,20 +3,21 @@
 # 🧪Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-React
-TypeScript
-HTML
-CSS
+* [React](https://reactjs.org)
+* [TypeScript](https://www.typescriptlang.org)
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
 
 🚀 Como executar
 Clone o projeto e acesse a pasta do mesmo.
 
-$ git clone https://github.com/TiagoOliveiraGomes/nlw_1_TiagoGomes
-$ cd nlw_1_TiagoGomes
+```$ git clone https://github.com/TiagoOliveiraGomes/nlw_1_TiagoGomes```
+```$ cd nlw_1_TiagoGomes```
 Para iniciá-lo, siga os passos abaixo:
 
 # Instalar as dependências
-$ npm install
+```$ npm install```
 
 # Iniciar o projeto
 $ npm run dev
