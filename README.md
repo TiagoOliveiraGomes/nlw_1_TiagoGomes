@@ -5,6 +5,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * [React](https://reactjs.org)
 * [TypeScript](https://www.typescriptlang.org)
+* [Vite](https://vitejs.dev)
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
